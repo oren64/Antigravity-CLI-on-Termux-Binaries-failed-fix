@@ -6,6 +6,8 @@ A custom installation script designed to patch and fix compatibility crashes whe
 
 <pre>curl -fsSL https://raw.githubusercontent.com/oren64/Antigravity-CLI-on-Termux-Binaries-failed-fix/main/install-agy.sh | bash</pre>
 
+<img width="1080" height="2400" alt="1000150599" src="https://github.com/user-attachments/assets/e6fe7c02-afa6-4f72-88bd-4d3f8e22adc6" />
+
 
 ---
 
