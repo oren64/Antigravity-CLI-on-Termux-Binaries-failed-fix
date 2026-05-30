@@ -2,7 +2,7 @@
 
 A custom installation script designed to patch and fix compatibility crashes when running **[wallentx/antigravity-cli-termux](https://github.com/wallentx/antigravity-cli-termux)** on Xiaomi and other ARMv8.0 Android devices. 
 
-# Install Antigravity CLI
+## Install Antigravity CLI
 
 <pre>curl -fsSL https://raw.githubusercontent.com/oren64/Antigravity-CLI-on-Termux-Binaries-failed-fix/main/install-agy.sh | bash</pre>
 
